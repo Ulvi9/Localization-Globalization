@@ -40,7 +40,7 @@ namespace Localization.Controllers
             return LocalRedirect(returnUrl);
         }
 
-        public IActionResult Privacy()
+        public ActionResult Privacy()
         {
             return View();
         }

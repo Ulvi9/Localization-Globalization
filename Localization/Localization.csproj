@@ -17,6 +17,18 @@
         <Generator>ResXFileCodeGenerator</Generator>
         <LastGenOutput>HomeController.en.Designer.cs</LastGenOutput>
       </EmbeddedResource>
+      <EmbeddedResource Update="Resources\Views\Shared\_layout.fr.resx">
+        <LastGenOutput>_culture.en.Designer.cs</LastGenOutput>
+        <Generator>ResXFileCodeGenerator</Generator>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Resources\Views\Shared\_layout.es.resx">
+        <LastGenOutput>_culture.en.Designer.cs</LastGenOutput>
+        <Generator>ResXFileCodeGenerator</Generator>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Resources\Views\Shared\_layout.en.resx">
+        <LastGenOutput>_culture.en.Designer.cs</LastGenOutput>
+        <Generator>ResXFileCodeGenerator</Generator>
+      </EmbeddedResource>
       <EmbeddedResource Update="Resources\Views\Shared\_culture.en.resx">
         <Generator>ResXFileCodeGenerator</Generator>
         <LastGenOutput>_culture.en.Designer.cs</LastGenOutput>
